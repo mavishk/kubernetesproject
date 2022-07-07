@@ -1,5 +1,5 @@
 FROM centos:7
-MAINTAINER shukla.avishk@gmail.com
+MAINTAINER shukla.avishk@outlook.com
 RUN yum install httpd -y \
 zip \
 unzip
